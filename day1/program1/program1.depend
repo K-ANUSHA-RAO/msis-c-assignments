@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1721799838 source:c:\users\msis\desktop\k anusha rao\day1\program1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.c"
+
+1721799987 c:\users\msis\desktop\k anusha rao\day1\program1\operations.c
+	<ctype.h>
+	<stdbool.h>
+	"headerFiles.h"
+
+1721798055 c:\users\msis\desktop\k anusha rao\day1\program1\headerfiles.h
+
