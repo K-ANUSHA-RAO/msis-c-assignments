@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1724131624 source:d:\ds-lab32\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.c"
+	<assert.h>
+
+1724131296 d:\ds-lab32\linked_list\operations.c
+	"commonHeader.h"
+
+1724131092 d:\ds-lab32\linked_list\commonheader.h
+
+1725325926 source:d:\241059032\ds-lab32\linked_list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operations.c"
+	<assert.h>
+
+1725326137 d:\241059032\ds-lab32\linked_list\operations.c
+	"commonHeader.h"
+
+1725326065 d:\241059032\ds-lab32\linked_list\commonheader.h
+
