@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1728369796 source:d:\241059032\ds-lab32\box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"box_operations.c"
+
+1728370812 d:\241059032\ds-lab32\box\box_operations.c
+	"Box_header.h"
+
+1728369855 d:\241059032\ds-lab32\box\box_header.h
+
